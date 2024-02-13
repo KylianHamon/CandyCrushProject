@@ -1,4 +1,3 @@
-# CandyCrushProject
 <h1>Projet Candy Crush Hamon Kylian</h1><br>
 <h2>Description:</h2>
 Le projet consiste en un jeu de type candy crush où l'objectif est de faire correspondre et éliminer des groupes de cookies alignés. Le joueur peut interagir avec les cookies en les échangeant de position pour former des groupes de trois ou plus.
